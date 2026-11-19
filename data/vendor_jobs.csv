@@ -1,0 +1,193 @@
+wo_id,vendor,trade,due_date,completed_date,reopened,estimate,actual_cost
+WO-4001,Acme HVAC,HVAC,2026-06-19,2026-06-28,no,2377.48,2416.85
+WO-4002,Acme HVAC,HVAC,2026-09-21,2026-09-20,no,654.54,644.66
+WO-4003,Acme HVAC,HVAC,2026-03-09,2026-03-09,no,2376.51,2327.4
+WO-4004,Acme HVAC,HVAC,2026-04-28,2026-04-27,no,259.47,263.15
+WO-4005,Acme HVAC,HVAC,2026-04-07,2026-04-07,no,392.18,357.89
+WO-4006,Acme HVAC,HVAC,2026-02-04,2026-02-02,no,1604.67,1740.57
+WO-4007,Acme HVAC,HVAC,2026-07-09,2026-07-08,no,854.45,820.31
+WO-4008,Acme HVAC,HVAC,2026-09-15,2026-09-15,no,2206.57,2170.44
+WO-4009,Acme HVAC,HVAC,2026-06-29,2026-07-01,no,507.16,514.57
+WO-4010,Acme HVAC,HVAC,2026-06-14,2026-06-11,no,949.29,872.13
+WO-4011,Acme HVAC,HVAC,2026-05-23,2026-05-28,no,1264.13,1388.8
+WO-4012,Acme HVAC,HVAC,2026-08-21,2026-08-21,no,818.8,795.13
+WO-4013,Acme HVAC,HVAC,2026-03-05,2026-03-04,no,1310.18,1419.4
+WO-4014,Acme HVAC,HVAC,2026-09-16,2026-09-15,no,339.37,364.08
+WO-4015,Acme HVAC,HVAC,2026-05-27,2026-05-24,no,1810.03,1683.66
+WO-4016,Acme HVAC,HVAC,2026-04-05,2026-04-08,no,505.55,455.41
+WO-4017,Acme HVAC,HVAC,2026-08-07,2026-08-06,no,1406.29,1410.65
+WO-4018,Acme HVAC,HVAC,2026-02-01,2026-01-28,no,1223.11,1198.4
+WO-4019,Acme HVAC,HVAC,2026-02-27,2026-02-26,no,1281.58,1181.6
+WO-4020,Acme HVAC,HVAC,2026-01-31,2026-01-29,no,390.59,357.02
+WO-4021,Acme HVAC,HVAC,2026-04-21,2026-04-19,no,1593.06,1584.82
+WO-4022,Acme HVAC,HVAC,2026-03-05,2026-03-02,no,2145.0,1992.33
+WO-4023,Acme HVAC,HVAC,2026-06-29,2026-06-25,yes,1889.83,2060.29
+WO-4024,Acme HVAC,HVAC,2026-10-02,2026-09-28,no,1000.12,1028.71
+WO-4025,Acme HVAC,HVAC,2026-02-20,2026-02-19,no,1786.06,1687.04
+WO-4026,Acme HVAC,HVAC,2026-09-19,2026-09-18,no,924.71,983.58
+WO-4027,Acme HVAC,HVAC,2026-05-01,2026-05-01,no,619.81,616.37
+WO-4028,Acme HVAC,HVAC,2026-04-14,2026-04-12,no,1777.43,1729.31
+WO-4029,Acme HVAC,HVAC,2026-04-27,2026-04-24,no,390.07,421.3
+WO-4030,Acme HVAC,HVAC,2026-01-05,2026-01-05,no,1276.76,1179.7
+WO-4031,Acme HVAC,HVAC,2026-07-22,2026-07-21,no,1988.41,2042.43
+WO-4032,Acme HVAC,HVAC,2026-02-18,2026-02-15,no,2031.94,1863.26
+WO-4033,Acme HVAC,HVAC,2026-03-27,2026-03-24,no,549.51,510.62
+WO-4034,Acme HVAC,HVAC,2026-09-04,2026-09-03,yes,1694.58,1796.04
+WO-4035,Acme HVAC,HVAC,2026-02-26,2026-02-25,no,1387.47,1307.29
+WO-4036,Acme HVAC,HVAC,2026-05-13,2026-05-11,no,650.03,639.5
+WO-4037,Acme HVAC,HVAC,2026-03-13,2026-03-09,no,293.13,294.11
+WO-4038,Acme HVAC,HVAC,2026-09-18,2026-09-15,no,457.29,467.22
+WO-4039,Acme HVAC,HVAC,2026-03-22,2026-03-18,no,555.01,575.25
+WO-4040,Acme HVAC,HVAC,2026-09-09,2026-09-08,no,1993.04,1810.56
+WO-4041,Acme HVAC,HVAC,2026-02-24,2026-02-24,no,1343.13,1373.36
+WO-4042,Acme HVAC,HVAC,2026-09-20,2026-09-16,no,1574.42,1567.5
+WO-4043,Acme HVAC,HVAC,2026-05-11,2026-05-09,no,1793.16,1934.01
+WO-4044,Acme HVAC,HVAC,2026-04-18,2026-04-15,no,2124.0,2196.71
+WO-4045,Acme HVAC,HVAC,2026-08-12,2026-08-11,no,321.83,331.06
+WO-4046,Northside Plumbing,Plumbing,2026-07-11,2026-07-10,no,486.0,482.27
+WO-4047,Northside Plumbing,Plumbing,2026-09-11,2026-09-18,no,532.57,564.11
+WO-4048,Northside Plumbing,Plumbing,2026-08-08,2026-08-08,no,610.0,653.35
+WO-4049,Northside Plumbing,Plumbing,2026-01-14,2026-01-14,yes,1053.21,1232.68
+WO-4050,Northside Plumbing,Plumbing,2026-05-02,2026-05-02,no,2433.49,2460.78
+WO-4051,Northside Plumbing,Plumbing,2026-03-12,2026-03-10,no,2076.48,2259.01
+WO-4052,Northside Plumbing,Plumbing,2026-09-25,2026-09-26,no,1490.9,1508.2
+WO-4053,Northside Plumbing,Plumbing,2026-02-11,,,781.97,
+WO-4054,Northside Plumbing,Plumbing,2026-02-19,2026-02-19,no,2033.83,2030.34
+WO-4055,Northside Plumbing,Plumbing,2026-01-10,2026-01-08,no,947.01,929.33
+WO-4056,Northside Plumbing,Plumbing,2026-05-07,2026-05-06,no,2354.6,2447.35
+WO-4057,Northside Plumbing,Plumbing,2026-06-10,2026-06-09,no,1398.05,1601.6
+WO-4058,Northside Plumbing,Plumbing,2026-05-13,,,236.83,
+WO-4059,Northside Plumbing,Plumbing,2026-09-20,2026-09-17,yes,1444.97,1660.11
+WO-4060,Northside Plumbing,Plumbing,2026-08-14,2026-08-10,no,1692.8,1724.08
+WO-4061,Northside Plumbing,Plumbing,2026-05-02,2026-05-01,no,955.36,1000.33
+WO-4062,Northside Plumbing,Plumbing,2026-02-01,,,2116.92,
+WO-4063,Northside Plumbing,Plumbing,2026-05-15,2026-05-12,no,1162.24,1298.03
+WO-4064,Northside Plumbing,Plumbing,2026-05-29,2026-06-01,no,1557.13,1663.48
+WO-4065,Northside Plumbing,Plumbing,2026-05-19,2026-05-17,no,1005.73,1187.35
+WO-4066,Northside Plumbing,Plumbing,2026-06-12,2026-06-12,no,661.98,715.33
+WO-4067,Northside Plumbing,Plumbing,2026-04-17,2026-04-19,no,733.22,805.62
+WO-4068,Northside Plumbing,Plumbing,2026-07-25,2026-08-03,no,202.86,203.98
+WO-4069,Northside Plumbing,Plumbing,2026-07-23,2026-07-21,no,1946.13,2162.02
+WO-4070,Northside Plumbing,Plumbing,2026-01-27,2026-01-24,no,2088.41,2396.32
+WO-4071,Northside Plumbing,Plumbing,2026-03-17,2026-03-17,no,2288.24,2512.85
+WO-4072,Northside Plumbing,Plumbing,2026-05-02,,,349.97,
+WO-4073,Northside Plumbing,Plumbing,2026-07-08,2026-07-08,no,2404.86,2662.82
+WO-4074,Northside Plumbing,Plumbing,2026-05-10,,,1299.84,
+WO-4075,Northside Plumbing,Plumbing,2026-02-09,2026-02-05,yes,1908.42,2158.7
+WO-4076,Northside Plumbing,Plumbing,2026-05-14,2026-05-18,no,2051.66,2282.24
+WO-4077,Northside Plumbing,Plumbing,2026-08-28,2026-08-26,no,1310.78,1448.76
+WO-4078,Northside Plumbing,Plumbing,2026-04-16,2026-04-14,no,332.06,332.33
+WO-4079,Northside Plumbing,Plumbing,2026-09-08,2026-09-07,no,292.55,302.74
+WO-4080,Northside Plumbing,Plumbing,2026-09-26,2026-09-22,no,821.03,971.5
+WO-4081,Northside Plumbing,Plumbing,2026-09-04,2026-09-01,no,191.14,201.76
+WO-4082,Northside Plumbing,Plumbing,2026-04-22,2026-04-20,no,325.34,325.55
+WO-4083,Northside Plumbing,Plumbing,2026-09-22,2026-09-19,no,806.98,869.12
+WO-4084,Northside Plumbing,Plumbing,2026-01-17,2026-01-14,no,523.8,525.05
+WO-4085,Northside Plumbing,Plumbing,2026-06-30,2026-06-28,no,1033.85,1192.29
+WO-4086,Brightline Electric,Electrical,2026-03-07,2026-03-12,no,2358.72,2088.9
+WO-4087,Brightline Electric,Electrical,2026-07-23,2026-07-20,no,2497.16,2593.86
+WO-4088,Brightline Electric,Electrical,2026-05-28,2026-05-27,no,389.02,359.67
+WO-4089,Brightline Electric,Electrical,2026-09-23,2026-09-20,no,891.66,918.87
+WO-4090,Brightline Electric,Electrical,2026-07-28,2026-07-28,no,2296.55,2331.17
+WO-4091,Brightline Electric,Electrical,2026-08-23,2026-08-20,no,1595.05,1679.26
+WO-4092,Brightline Electric,Electrical,2026-03-11,2026-03-09,no,551.29,585.69
+WO-4093,Brightline Electric,Electrical,2026-05-18,2026-05-15,no,1104.59,1102.14
+WO-4094,Brightline Electric,Electrical,2026-02-12,2026-02-11,no,638.5,598.64
+WO-4095,Brightline Electric,Electrical,2026-08-23,2026-08-22,no,1154.44,1028.23
+WO-4096,Brightline Electric,Electrical,2026-05-07,2026-05-07,no,1015.52,967.87
+WO-4097,Brightline Electric,Electrical,2026-08-04,2026-08-04,no,1902.73,1873.07
+WO-4098,Brightline Electric,Electrical,2026-07-08,2026-07-07,no,445.8,466.74
+WO-4099,Brightline Electric,Electrical,2026-07-20,2026-07-20,no,1089.43,1040.94
+WO-4100,Brightline Electric,Electrical,2026-09-04,2026-08-31,no,2425.46,2574.9
+WO-4101,Brightline Electric,Electrical,2026-05-12,2026-05-12,no,1990.3,2016.21
+WO-4102,Brightline Electric,Electrical,2026-08-27,2026-08-30,no,349.76,367.76
+WO-4103,Brightline Electric,Electrical,2026-06-09,2026-06-06,no,2411.72,2157.9
+WO-4104,Brightline Electric,Electrical,2026-02-10,2026-02-08,no,855.82,846.92
+WO-4105,Brightline Electric,Electrical,2026-01-10,2026-01-08,no,1413.07,1475.88
+WO-4106,Brightline Electric,Electrical,2026-09-05,2026-09-12,no,1386.75,1293.33
+WO-4107,Brightline Electric,Electrical,2026-01-16,2026-01-16,no,606.17,607.67
+WO-4108,Brightline Electric,Electrical,2026-07-13,,,682.95,
+WO-4109,Brightline Electric,Electrical,2026-06-27,2026-06-27,no,1838.08,1868.21
+WO-4110,Brightline Electric,Electrical,2026-09-20,2026-09-19,no,308.47,282.55
+WO-4111,Brightline Electric,Electrical,2026-06-05,2026-06-04,no,406.17,426.32
+WO-4112,Brightline Electric,Electrical,2026-02-02,2026-02-01,yes,2379.59,2352.58
+WO-4113,Brightline Electric,Electrical,2026-08-05,2026-08-03,no,271.83,289.91
+WO-4114,Brightline Electric,Electrical,2026-03-30,2026-03-27,no,923.72,925.47
+WO-4115,Brightline Electric,Electrical,2026-07-17,2026-07-17,yes,2121.95,1967.65
+WO-4116,Brightline Electric,Electrical,2026-07-03,2026-07-02,no,1137.43,1162.61
+WO-4117,Brightline Electric,Electrical,2026-06-12,2026-06-20,no,2081.72,2036.04
+WO-4118,Brightline Electric,Electrical,2026-08-21,2026-08-21,no,603.61,555.99
+WO-4119,Brightline Electric,Electrical,2026-07-31,,,245.53,
+WO-4120,Brightline Electric,Electrical,2026-02-06,2026-02-06,no,2037.84,1913.08
+WO-4121,Brightline Electric,Electrical,2026-05-24,2026-05-30,no,937.18,872.23
+WO-4122,Brightline Electric,Electrical,2026-02-07,2026-02-04,no,207.0,196.23
+WO-4123,Brightline Electric,Electrical,2026-05-13,2026-05-10,no,2296.83,2362.75
+WO-4124,Oak and Pine Carpentry,Carpentry,2026-06-09,2026-06-07,no,2083.47,2480.55
+WO-4125,Oak and Pine Carpentry,Carpentry,2026-02-14,2026-02-21,yes,1352.93,1472.16
+WO-4126,Oak and Pine Carpentry,Carpentry,2026-06-20,2026-06-22,no,527.63,580.49
+WO-4127,Oak and Pine Carpentry,Carpentry,2026-02-23,2026-02-22,no,1139.49,1344.65
+WO-4128,Oak and Pine Carpentry,Carpentry,2026-05-05,2026-05-05,no,1907.75,2194.95
+WO-4129,Oak and Pine Carpentry,Carpentry,2026-05-28,2026-05-27,no,1482.18,1666.83
+WO-4130,Oak and Pine Carpentry,Carpentry,2026-05-05,2026-05-03,yes,510.31,581.96
+WO-4131,Oak and Pine Carpentry,Carpentry,2026-05-10,2026-05-07,no,1342.21,1482.55
+WO-4132,Oak and Pine Carpentry,Carpentry,2026-09-05,2026-09-03,yes,2224.64,2559.41
+WO-4133,Oak and Pine Carpentry,Carpentry,2026-03-07,2026-03-06,no,268.42,313.87
+WO-4134,Oak and Pine Carpentry,Carpentry,2026-04-06,2026-04-06,yes,1205.42,1474.32
+WO-4135,Oak and Pine Carpentry,Carpentry,2026-07-03,2026-07-07,no,661.47,720.46
+WO-4136,Oak and Pine Carpentry,Carpentry,2026-04-19,2026-04-17,yes,2064.65,2384.52
+WO-4137,Oak and Pine Carpentry,Carpentry,2026-04-19,2026-04-16,yes,223.95,263.11
+WO-4138,Oak and Pine Carpentry,Carpentry,2026-03-25,2026-03-30,no,1652.08,1896.58
+WO-4139,Oak and Pine Carpentry,Carpentry,2026-06-11,2026-06-09,no,1131.94,1227.44
+WO-4140,Oak and Pine Carpentry,Carpentry,2026-07-10,2026-07-10,no,1664.52,1860.23
+WO-4141,Oak and Pine Carpentry,Carpentry,2026-03-04,2026-03-01,no,2077.87,2308.92
+WO-4142,Oak and Pine Carpentry,Carpentry,2026-01-31,2026-01-31,no,1446.14,1883.65
+WO-4143,Oak and Pine Carpentry,Carpentry,2026-09-20,2026-09-23,no,553.46,612.19
+WO-4144,Oak and Pine Carpentry,Carpentry,2026-09-13,2026-09-11,yes,1920.86,2509.29
+WO-4145,Oak and Pine Carpentry,Carpentry,2026-09-09,2026-09-09,no,889.14,1092.65
+WO-4146,Oak and Pine Carpentry,Carpentry,2026-03-28,2026-03-24,no,1654.76,2116.45
+WO-4147,Oak and Pine Carpentry,Carpentry,2026-04-08,,,1478.75,
+WO-4148,Oak and Pine Carpentry,Carpentry,2026-09-27,2026-10-01,yes,517.73,629.02
+WO-4149,Oak and Pine Carpentry,Carpentry,2026-01-24,2026-02-01,no,1719.56,2115.9
+WO-4150,Oak and Pine Carpentry,Carpentry,2026-06-10,2026-06-17,no,1675.22,1988.87
+WO-4151,Oak and Pine Carpentry,Carpentry,2026-08-17,,,570.1,
+WO-4152,Oak and Pine Carpentry,Carpentry,2026-09-12,2026-09-09,no,1243.39,1584.73
+WO-4153,Oak and Pine Carpentry,Carpentry,2026-07-28,2026-07-28,no,401.63,482.37
+WO-4154,CleanSweep Services,Custodial,2026-01-25,2026-01-23,no,245.53,251.02
+WO-4155,CleanSweep Services,Custodial,2026-02-01,2026-01-31,yes,1917.34,1786.08
+WO-4156,CleanSweep Services,Custodial,2026-03-02,2026-03-01,no,605.21,644.61
+WO-4157,CleanSweep Services,Custodial,2026-04-28,2026-04-27,no,303.96,317.08
+WO-4158,CleanSweep Services,Custodial,2026-08-26,2026-08-25,no,487.39,508.66
+WO-4159,CleanSweep Services,Custodial,2026-05-06,,,899.83,
+WO-4160,CleanSweep Services,Custodial,2026-04-08,2026-04-06,no,1098.14,1045.89
+WO-4161,CleanSweep Services,Custodial,2026-05-20,2026-05-18,no,420.43,424.81
+WO-4162,CleanSweep Services,Custodial,2026-09-28,2026-10-07,no,1513.1,1510.72
+WO-4163,CleanSweep Services,Custodial,2026-07-14,2026-07-12,no,772.17,721.67
+WO-4164,CleanSweep Services,Custodial,2026-05-02,2026-05-11,no,565.38,592.75
+WO-4165,CleanSweep Services,Custodial,2026-06-14,2026-06-12,no,1872.64,1884.2
+WO-4166,CleanSweep Services,Custodial,2026-09-24,,,1005.63,
+WO-4167,CleanSweep Services,Custodial,2026-09-12,2026-09-13,no,684.06,670.35
+WO-4168,CleanSweep Services,Custodial,2026-09-29,2026-09-25,no,989.31,982.1
+WO-4169,CleanSweep Services,Custodial,2026-09-05,,,522.77,
+WO-4170,CleanSweep Services,Custodial,2026-05-09,2026-05-12,no,1812.56,1953.14
+WO-4171,CleanSweep Services,Custodial,2026-07-29,2026-08-07,no,2057.19,2138.09
+WO-4172,CleanSweep Services,Custodial,2026-08-20,2026-08-19,no,1564.42,1450.18
+WO-4173,CleanSweep Services,Custodial,2026-01-17,2026-01-19,yes,1104.07,1137.62
+WO-4174,CleanSweep Services,Custodial,2026-04-15,2026-04-11,no,484.33,485.64
+WO-4175,CleanSweep Services,Custodial,2026-04-04,2026-04-01,no,1345.15,1236.59
+WO-4176,CleanSweep Services,Custodial,2026-08-16,2026-08-13,no,1901.19,2131.82
+WO-4177,CleanSweep Services,Custodial,2026-05-18,,,695.9,
+WO-4178,CleanSweep Services,Custodial,2026-06-25,2026-06-23,no,2244.49,2182.23
+WO-4179,CleanSweep Services,Custodial,2026-08-16,2026-08-14,no,1761.47,1963.84
+WO-4180,CleanSweep Services,Custodial,2026-04-26,2026-04-25,no,350.74,336.49
+WO-4181,CleanSweep Services,Custodial,2026-03-27,2026-03-25,no,1903.46,1894.72
+WO-4182,CleanSweep Services,Custodial,2026-09-02,2026-09-03,no,1259.53,1342.44
+WO-4183,CleanSweep Services,Custodial,2026-06-11,2026-06-07,no,2004.63,1899.38
+WO-4184,CleanSweep Services,Custodial,2026-01-18,2026-01-17,no,412.95,381.69
+WO-4185,CleanSweep Services,Custodial,2026-03-16,2026-03-16,no,1777.67,1846.03
+WO-4186,CleanSweep Services,Custodial,2026-07-10,2026-07-10,no,618.38,663.01
+WO-4187,CleanSweep Services,Custodial,2026-07-20,2026-07-21,no,401.72,443.45
+WO-4188,CleanSweep Services,Custodial,2026-02-18,2026-02-18,no,2088.89,2255.08
+WO-4189,Pilot Roofing,Roofing,2026-04-19,2026-04-17,no,841.98,845.64
+WO-4190,Pilot Roofing,Roofing,2026-07-12,2026-07-09,no,2289.29,2460.62
+WO-4191,Pilot Roofing,Roofing,2026-01-20,,,2004.28,
+WO-4192,Pilot Roofing,Roofing,2026-09-27,2026-09-23,no,1966.61,2153.48
