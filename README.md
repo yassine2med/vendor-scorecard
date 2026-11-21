@@ -2,6 +2,8 @@
 
 # vendor-scorecard
 
+[![CI](https://github.com/yassine2med/vendor-scorecard/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/vendor-scorecard/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 A command-line tool that reads a job history CSV and gives each vendor one score from 0 to 100 and a letter grade.
 
 ![Screenshot](docs/screenshot.png)
