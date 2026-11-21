@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="vendor-scorecard: A command-line tool that reads a job history CSV and gives each vendor one score from 0 to 100 and a letter grade.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1013"/><stop offset="1" stop-color="#171d21"/></linearGradient>
+<radialGradient id="glow" cx="0.83" cy="0.5" r="0.55"><stop offset="0" stop-color="#ff7a9c" stop-opacity="0.28"/><stop offset="1" stop-color="#ff7a9c" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.06"/></pattern>
+</defs>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">
+<rect width="1280" height="340" rx="22" fill="url(#bg)"/><rect width="1280" height="340" rx="22" fill="url(#dots)"/><rect width="1280" height="340" rx="22" fill="url(#glow)"/>
+<rect x="1" y="1" width="1278" height="338" rx="21" fill="none" stroke="#ff7a9c" stroke-opacity="0.35"/>
+<rect x="64" y="52" width="346" height="30" rx="15" fill="#ff7a9c"/>
+<text x="74" y="73" font-size="15" font-weight="700" fill="#0d1013">SAFETY, SPACE AND DAILY OPERATIONS</text>
+<text x="64" y="150" font-size="56" font-weight="700" fill="#f1f5ef">vendor-scorecard</text>
+<text x="64" y="196" font-size="22" fill="#aeb8ae">A command-line tool that reads a job history CSV and gives</text><text x="64" y="226" font-size="22" fill="#aeb8ae">each vendor one score from 0 to 100 and a letter grade.</text>
+<rect x="64" y="276" width="78" height="32" rx="16" fill="#ff7a9c" fill-opacity="0.12" stroke="#ff7a9c" stroke-opacity="0.55"/><text x="103.0" y="297" text-anchor="middle" font-size="15" fill="#ff7a9c">Python</text>
+<circle cx="1060" cy="170" r="130" fill="none" stroke="#ff7a9c" stroke-opacity="0.10" stroke-width="1"/><circle cx="1060" cy="170" r="98" fill="none" stroke="#ff7a9c" stroke-opacity="0.17" stroke-width="2"/><circle cx="1060" cy="170" r="66" fill="none" stroke="#ff7a9c" stroke-opacity="0.24" stroke-width="3"/><circle cx="1060" cy="170" r="34" fill="none" stroke="#ff7a9c" stroke-opacity="0.31" stroke-width="4"/><circle cx="980.0" cy="272.4" r="7" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="975.1" cy="219.0" r="9" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1057.6" cy="203.9" r="7" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1131.7" cy="103.2" r="6" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1091.7" cy="182.2" r="5" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="990.7" cy="239.3" r="5" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1158.1" cy="84.7" r="8" fill="#ff7a9c" fill-opacity="0.9"/><circle cx="1060" cy="170" r="10" fill="#ff7a9c"/>
+</g></svg>

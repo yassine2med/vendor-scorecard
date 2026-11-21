@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="vendor-scorecard" width="100%"></p>
+
 # vendor-scorecard
 
 A command-line tool that reads a job history CSV and gives each vendor one score from 0 to 100 and a letter grade.
